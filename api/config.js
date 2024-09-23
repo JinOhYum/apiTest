@@ -14,7 +14,7 @@ let config = {
       database: "YJO"
     },
     fcm: {
-      serverKey: "AAAA73xJExU:APA91bFZpN4gQ3kf-A6Dm1ajaTd5s2x6hI9iyPRrl6yM1rkzjfnHhHTfjDlJaQ7LvQMtYslRoGIHOw1pL58-usErHhIozoyqMZkvNVCWJjSWHARHwi_-phxILO3Ogxe40R-7rNA4wM27"
+      serverKey: "fcm토큰"
     }
   };
   

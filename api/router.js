@@ -1,3 +1,6 @@
+/**
+ * Node.js 에서 사용할 express 라이브러리 import
+ */
 const express = require("express");
 const router = express.Router();
 
